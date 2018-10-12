@@ -8,8 +8,12 @@ check python’s range Function
 """
 
 # your name and email address here
-__author__ = 'xXLXx <leo@bywave.com.au>'
+Francis = 'francislouie <francis@bywave.com.au>'
 
 
-if __name__ == '__main__':
+if Francis == '__main__':
     # your code here
+x = range(3, 100, 3)
+
+for n in x:
+  print(n)
